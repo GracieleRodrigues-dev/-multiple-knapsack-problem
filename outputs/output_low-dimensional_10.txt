@@ -1,0 +1,8 @@
+Tempo de execução: 0.0821 segundos
+Solução ótima:
+Mochila 1: 7
+  Peso total: 488.0, Valor total: 487.0, Capacidade original: 500.0
+Mochila 2: 16
+  Peso total: 969.0, Valor total: 976.0, Capacidade original: 978.0
+Mochila 3: 1
+  Peso total: 983.0, Valor total: 981.0, Capacidade original: 1120.0

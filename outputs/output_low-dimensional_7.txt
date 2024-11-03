@@ -1,0 +1,6 @@
+Tempo de execução: 0.0261 segundos
+Solução ótima:
+Mochila 1: 2
+  Peso total: 4.0, Valor total: 10.0, Capacidade original: 5.0
+Mochila 2: 1, 3
+  Peso total: 8.0, Valor total: 18.0, Capacidade original: 8.0

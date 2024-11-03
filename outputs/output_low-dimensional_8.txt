@@ -1,0 +1,14 @@
+Tempo de execução: 0.0540 segundos
+Solução ótima:
+Mochila 1: 3
+  Peso total: 43.0, Valor total: 90.0, Capacidade original: 43.0
+Mochila 2: 12, 13
+  Peso total: 74.0, Valor total: 117.0, Capacidade original: 78.0
+Mochila 3: 19
+  Peso total: 14.0, Valor total: 75.0, Capacidade original: 15.0
+Mochila 4: 10, 15, 17
+  Peso total: 139.0, Valor total: 190.0, Capacidade original: 141.0
+Mochila 5: 2
+  Peso total: 4.0, Valor total: 46.0, Capacidade original: 5.0
+Mochila 6: 11, 20
+  Peso total: 90.0, Valor total: 141.0, Capacidade original: 92.0
